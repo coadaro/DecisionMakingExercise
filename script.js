@@ -28,7 +28,7 @@ if (randomNum === 2 || randomNum === 4) {
 
 //bonus
 //2
-randomNum = (randomNum >= 4) ? `Greater than or equal to 4` : `Less than 4`
+(randomNum >= 4) ? `Greater than or equal to 4` : `Less than 4`
 console.log(randomNum);
 
 //3
